@@ -1,0 +1,8 @@
+[project]
+name = "workspace"
+version = "1.0"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "stcgal>=1.10",
+]
